@@ -1,3 +1,14 @@
 I am Nilesh Patil
 I created this repository on Thursday 14/11/2019 in IT main Lab
 
+
+import java.util.*;
+class Add
+{
+  int a,b;
+  a=20;
+  b=
+  System.out.print(a+b);
+}
+
+
